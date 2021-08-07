@@ -1,0 +1,2 @@
+# jogoppt
+Pedra, papel, tesoura
